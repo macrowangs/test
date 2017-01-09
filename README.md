@@ -7,3 +7,12 @@
 test22
 ------
 
+
+<div class="footer">
+  &copyright 2017
+</div>
+
+
+ <div class="footer">
+  &copyright 2017
+ </div>
